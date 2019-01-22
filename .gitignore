@@ -4,3 +4,5 @@ TestResults/
 .vs/
 Training.Webdriver/bin
 Training.Webdriver/obj
+/Training.Webdriver/obj
+/Training.Webdriver/bin
