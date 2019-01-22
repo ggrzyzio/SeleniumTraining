@@ -1,0 +1,6 @@
+packages/
+TestResults/
+.idea
+.vs/
+Training.Webdriver/bin
+Training.Webdriver/obj
